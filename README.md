@@ -2,7 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-[View the Resume PDF](signup-react.pdf)
+[View the Signup PDF](signup-react.pdf)
+
+<object data="signup-react.pdf" type="application/pdf" width="700" height="500">
+    <p>It appears you don't have a PDF plugin for this browser. You can <a href="signup-react.pdf">click here to download the PDF file.</a></p>
+</object>
 
 ## Available Scripts
 
