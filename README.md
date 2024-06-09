@@ -5,6 +5,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 [View the Signup PDF](signup-react.pdf)
 
 ![Screenshot of the application](https://github.com/abdullahkamal9998/Markaty-Signup/blob/main/Task-Images/sign-up1.png)
+
+![Screenshot of the application](https://github.com/abdullahkamal9998/Markaty-Signup/blob/main/Task-Images/sign-up2.png)
+
+![Screenshot of the application](https://github.com/abdullahkamal9998/Markaty-Signup/blob/main/Task-Images/sign-up3.png)
+
+![Screenshot of the application](https://github.com/abdullahkamal9998/Markaty-Signup/blob/main/Task-Images/sign-up4.png)
 ## Available Scripts
 
 In the project directory, you can run:
