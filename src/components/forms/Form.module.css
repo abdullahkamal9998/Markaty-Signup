@@ -1,0 +1,74 @@
+.formDiv {
+  margin: 95px auto;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  width: 360px;
+  align-items: flex-start;
+  margin-bottom: 8px;
+}
+
+.formDiv2 {
+  margin: 68px auto;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  width: 360px;
+  align-items: flex-start;
+  margin-bottom: 8px;
+}
+
+.formFooter {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 4px;
+  align-self: stretch;
+}
+
+.footerParag {
+  color: var(--gray-600, #475467);
+  /* Text sm/Regular */
+  font-family: Inter;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 20px; /* 142.857% */
+  margin: 0;
+}
+
+.footerButton {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+  color: var(--primary-700, #6941c6);
+  /* Text sm/Semibold */
+  font-family: Inter;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 20px; /* 142.857% */
+  background-color: #fff;
+  border: none;
+}
+
+.arabicDiv {
+  display: flex;
+  padding: 0px 32px;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+  flex: 1 0 0;
+  align-self: stretch;
+}
+.arabicSpan {
+  color: #667085;
+  text-align: center;
+  /* AR-Body 16px */
+  font-family: Cairo;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: 120%; /* 19.2px */
+}

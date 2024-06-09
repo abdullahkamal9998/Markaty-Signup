@@ -1,0 +1,97 @@
+.formDiv {
+  margin: 103px auto;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  width: 360px;
+  align-items: flex-start;
+  margin-bottom: 8px;
+}
+
+.verifyIcon {
+  display: flex;
+  align-self: center;
+}
+
+.verfiyDiv {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 12px;
+  align-self: stretch;
+}
+.verfiyH1 {
+  align-self: stretch;
+  color: var(--gray-900, #101828);
+  text-align: center;
+  /* Display sm/Semibold */
+  font-family: Inter;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 38px; /* 126.667% */
+  margin: 0;
+}
+
+.verifyP {
+  align-self: stretch;
+  color: var(--gray-600, #475467);
+  text-align: center;
+
+  /* Text md/Regular */
+  font-family: Inter;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 36px; /* 150% */
+  margin: 0;
+}
+.verifyP2 {
+  align-self: stretch;
+  color: var(--gray-600, #475467);
+  text-align: center;
+
+  /* Text md/Regular */
+  font-family: Inter;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px; /* 150% */
+  margin: 0;
+}
+
+.formFooter {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 4px;
+  align-self: stretch;
+  margin: 12px 0;
+}
+
+.footerParag {
+  color: var(--gray-600, #475467);
+  /* Text sm/Regular */
+  font-family: Inter;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 20px; /* 142.857% */
+  margin: 0;
+}
+
+.footerButton {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+  color: var(--primary-700, #6941c6);
+  /* Text sm/Semibold */
+  font-family: Inter;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 20px; /* 142.857% */
+  background-color: #fff;
+  border: none;
+}

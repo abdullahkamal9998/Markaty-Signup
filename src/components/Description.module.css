@@ -1,0 +1,26 @@
+.container {
+  padding: 0 96px;
+  margin-top: 260px;
+}
+
+.header {
+  color: var(--base-white, #fff);
+  font-family: Inter;
+  font-size: 60px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 72px; /* 120% */
+  letter-spacing: -1.2px;
+  margin-top: 32px;
+  margin-bottom: 24px;
+}
+
+.parag {
+  color: var(--gray-200, #eaecf0);
+  /* Text lg/Medium */
+  font-family: Inter;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 28px; /* 155.556% */
+}

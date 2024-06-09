@@ -1,0 +1,30 @@
+.container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  /* width: 100vw; */
+  height: 960px;
+  /* background-color: aqua; */
+  margin: 0;
+  /* background-image: url("./resorces/bg-img.png"),
+    linear-gradient(45deg, #2f234a 0%, #7f56d9 100%); */
+  background: url("./resorces/bg-img.png"), lightgray 50%;
+  background-size: cover;
+}
+
+.secondSection {
+  background-image: linear-gradient(45deg, #2f234a 0%, #7f56d9e7 100%);
+  filter: brightness(100%);
+}
+
+.float {
+  position: absolute;
+  top: 558px;
+  left: 596px;
+  z-index: 9999;
+}
+
+.logo {
+  width: 82.777px;
+  height: 34.231px;
+  margin-top: 18px;
+}

@@ -1,0 +1,66 @@
+.progressContainer {
+  margin-top: 18px;
+  gap: 48px;
+  display: flex;
+  justify-content: space-between;
+  position: relative;
+}
+
+.progressBar0 {
+  position: absolute;
+  top: 5px;
+  left: 98px;
+  width: 72%;
+  z-index: 0;
+}
+
+.progressBar0:before {
+  background-color: #7244c8;
+  content: "";
+  display: block;
+  height: 2px;
+  left: 0;
+  /* position: absolute; */
+  top: -2px;
+  width: 0;
+  z-index: 1;
+}
+
+.progressBar1 {
+  position: absolute;
+  top: 5px;
+  left: 98px;
+  width: 72%;
+  z-index: 0;
+}
+
+.progressBar1:before {
+  background-color: #7244c8;
+  content: "";
+  display: block;
+  height: 2px;
+  left: 0;
+  /* position: absolute; */
+  top: -2px;
+  width: 50%;
+  z-index: 1;
+}
+.progressBar3 {
+  position: absolute;
+  top: 5px;
+  left: 98px;
+  width: 72%;
+  z-index: 0;
+}
+
+.progressBar3:before {
+  background-color: #7244c8;
+  content: "";
+  display: block;
+  height: 2px;
+  left: 0;
+  /* position: absolute; */
+  top: -2px;
+  width: 100%;
+  z-index: 1;
+}

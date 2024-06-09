@@ -1,0 +1,28 @@
+.footer {
+  display: flex;
+  padding: 32px;
+  padding-top: 0;
+  justify-content: space-between;
+  align-items: center;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+}
+
+.email {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.footerP {
+  margin: 0;
+  color: var(--gray-600, #475467);
+  /* Text sm/Regular */
+  font-family: Inter;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 20px; /* 142.857% */
+}

@@ -1,0 +1,16 @@
+.backBtn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+  color: var(--gray-600, #475467);
+  /* Text sm/Semibold */
+  font-family: Inter;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 20px; /* 142.857% */
+  align-self: center;
+  background-color: #fff;
+  border: none;
+}
